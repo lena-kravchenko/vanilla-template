@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-template",
+  "version": "1.0.0",
+  "description": "Template for vanilla (no framework) frontend projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lena-kravchenko/vanilla-template.git"
+  },
+  "keywords": [
+    "template",
+    "boilerplate",
+    "html",
+    "javascript",
+    "parcel",
+    "eslint"
+  ],
+  "author": "LenaKravchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lena-kravchenko/vanilla-template/issues"
+  },
+  "homepage": "https://github.com/lena-kravchenko/vanilla-template#readme"
+}
